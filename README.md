@@ -1,3 +1,4 @@
+![projeto sirio](https://user-images.githubusercontent.com/44147318/235558123-6bd2c302-1262-4237-8099-2e1724a4686a.png)
 <h1>Projeto de Predição da Necessidade de Leitos de UTI para COVID-19 no Hospital Sírio-Libanês</h1>
 Este é um projeto de Data Science que utiliza algoritmos de classificação para prever a necessidade de internação em UTI de pacientes com COVID-19, com base em dados clínicos e demográficos. A análise exploratória e visualização dos dados foram realizadas para entender melhor os dados e extrair conhecimento deles.
 
