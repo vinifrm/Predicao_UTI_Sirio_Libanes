@@ -19,9 +19,12 @@ Além dos componentes padrão do spaCy, foram adicionados componentes personaliz
 <h3>Dependências</h3>
 As seguintes bibliotecas Python e ferramentas foram usadas neste projeto:
 
-Python
-Jupyter Notebook
-Pandas, Numpy
-Matplotlib, Seaborn
-Modelos de Machine Learning: LogisticRegression, DecisionTreeClassifier, SVC, RandomForestClassifier, KNeighborsClassifier
-Git e Github
+<ul>
+  <li>pandas</li>
+  <li>Python</li>
+  <li>Jupyter Notebook</li>
+  <li>Pandas, Numpy</li>
+  <li>Matplotlib, Seaborn</li>
+  <li>Modelos de Machine Learning: LogisticRegression, DecisionTreeClassifier, SVC, RandomForestClassifier, KNeighborsClassifier</li>
+  <li>Git e Github</li>
+</ul>
