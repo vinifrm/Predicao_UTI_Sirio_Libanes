@@ -18,7 +18,6 @@ Tivemos melhor desempenho com o modelo RandomForestClassifier(), ultrapassando 8
 As seguintes bibliotecas Python e ferramentas foram usadas neste projeto:
 
 <ul>
-  <li>pandas</li>
   <li>Python</li>
   <li>Jupyter Notebook</li>
   <li>Pandas, Numpy</li>
